@@ -2,7 +2,8 @@
 
 We, Begin, stand in solidarity with the Black community, and oppose the systems of injustice, inequality, and white supremacy that have oppressed American communities of color for hundreds of years.
 
-Although it is only a minor gesture, we have replaced our regular home page with this site in the hopes of inspiring more people in America and around the world to speak out against the immoral and abhorrent behaviors we continue to witness perpetrated on our fellow citizens.
+Although it is only a minor gesture, we have replaced our regular home page with [this site](index.html) in the hopes of inspiring more people in America and around the world to speak out against the immoral and abhorrent behaviors we continue to witness perpetrated on our fellow citizens.
+
 
 ### How to use the site
 
